@@ -9,5 +9,5 @@
 <br><h1 align="center">My sreak on GitHub</h1></br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/[username](https://www.codewars.com/users/Remidemi))   
 
