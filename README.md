@@ -6,7 +6,7 @@
 <br><h1 align="center">Trophy</h1></br>
 <br>[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)</br>
 
-<br><h1 align="center">My sreak on GitHub</h1></br>
+<br><h1 align="center">My streak on GitHub</h1></br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
